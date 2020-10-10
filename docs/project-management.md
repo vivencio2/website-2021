@@ -67,7 +67,7 @@ You can use Git's [interactive rebase](https://help.github.com/articles/interact
 
 Doing a pull request means you want to merge your code branch back to the main dev branch.
 
-To do this, you go back to the [main repository](https://github.com/gdgphilippines/devfest2018). And click on Pull Request.
+To do this, you go back to the [main repository](https://github.com/gdgphilippines/website-2021). And click on Pull Request.
 
 Make sure your base branch is `[the main repository]/dev` and the branch that you want to merge is your feature branch that you have been working on.
 
